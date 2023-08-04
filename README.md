@@ -7,7 +7,7 @@
 
 <p align="center">
   <a href="https://isocpp.org/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/800px-ISO_C%2B%2B_Logo.svg.png" alt="cplusplus" width="60" height="65"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/800px-ISO_C%2B%2B_Logo.svg.png" alt="cplusplus" width="60" height="67"/>
   </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
     <img src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" alt="javascript" width="60" height="60" />
@@ -15,9 +15,21 @@
   <a href="https://www.python.org" target="_blank" rel="noreferrer">
     <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="python" width="60" height="60"/>
   </a>
+  <a href="https://www.php.org" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/711px-PHP-logo.svg.png" alt="php" width="90" height="60"/>
+  </a>
+    <a href="https://	www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQijxslpk0RaBGuj_JA0eAE_FcWHqB9oNdVHT8bx8Y&s" alt="bash" width="60" height="60"/>
+  </a>
+      <a href="https://learn.microsoft.com/it-it/powershell/" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/a/af/PowerShell_Core_6.0_icon.png" alt="bash" width="60" height="60"/>
+  </a>
+  <a href="https://www.ruby-lang.org/" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Ruby_logo.svg/1024px-Ruby_logo.svg.png" alt="bash" width="60" height="60"/>
+  </a>
 </p>
 <br>
-<h3 align="center">Front-End</h1>
+<h3 align="center">HTML & CSS</h1>
 
 <p align="center">
   <a href="https://html.spec.whatwg.org/" target="_blank" rel="noreferrer">
