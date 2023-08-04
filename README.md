@@ -29,6 +29,13 @@
   </a>
 </p>
 <br>
+
+<h3 align="center">Query Languages</h1>
+
+<p align="center">
+    <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" alt="cplusplus" width="95" height="102"/>
+</p>
+<br>
 <h3 align="center">HTML & CSS</h1>
 
 <p align="center">
