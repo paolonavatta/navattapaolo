@@ -19,7 +19,7 @@
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/711px-PHP-logo.svg.png" alt="php" width="90" height="60"/>
   </a>
     <a href="https://	www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
-    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQijxslpk0RaBGuj_JA0eAE_FcWHqB9oNdVHT8bx8Y&s" alt="bash" width="60" height="60"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Bash_Logo_Colored.svg" alt="bash" width="60" height="60"/>
   </a>
       <a href="https://learn.microsoft.com/it-it/powershell/" target="_blank" rel="noreferrer">
     <img src="https://upload.wikimedia.org/wikipedia/commons/a/af/PowerShell_Core_6.0_icon.png" alt="bash" width="60" height="60"/>
