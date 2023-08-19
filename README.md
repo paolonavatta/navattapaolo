@@ -22,10 +22,13 @@
     <img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Bash_Logo_Colored.svg" alt="bash" width="60" height="60"/>
   </a>
       <a href="https://learn.microsoft.com/it-it/powershell/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/a/af/PowerShell_Core_6.0_icon.png" alt="bash" width="60" height="60"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/a/af/PowerShell_Core_6.0_icon.png" alt="powershell" width="60" height="60"/>
   </a>
   <a href="https://www.ruby-lang.org/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Ruby_logo.svg/1024px-Ruby_logo.svg.png" alt="bash" width="60" height="60"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Ruby_logo.svg/1024px-Ruby_logo.svg.png" alt="ruby" width="60" height="60"/>
+  </a>
+  <a href="https://nasm.us/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/github/explore/e495457f5ff28c343f9e422f8e3cf80fd3e80890/topics/assembly/assembly.png" alt="assembly" width="70" height="70"/>
   </a>
 </p>
 <br>
@@ -33,7 +36,7 @@
 <h3 align="center">Query Languages</h1>
 <a href="https://www.mysql.com/" target="_blank" rel="noreffer">
 <p align="center">
-    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBNPJ4ukycQKdDYUUBUcxKnr9vpOHVZ-rAFs-LyWY&s" alt="cplusplus" width="65" height="87"/>
+    <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" alt="cplusplus" width="90" height="90"/>
 </p>
 </a>
 <br>
