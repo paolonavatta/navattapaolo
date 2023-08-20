@@ -40,12 +40,19 @@
 </p>
 </a>
 <br>
-<h3 align="center">HTML & CSS</h1>
+<h3 align="center">Markup Languages</h1>
 
 <p align="center">
   <a href="https://html.spec.whatwg.org/" target="_blank" rel="noreferrer">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/1024px-HTML5_logo_and_wordmark.svg.png" alt="html5" width="80" height="80"/>
   </a>
+  <a href="https://daringfireball.net/projects/markdown/">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Markdown-mark.svg/1200px-Markdown-mark.svg.png" alt="Markdown" width="80" height="50" />
+  </a>
+</p>
+<br>
+<h3 align="center">Stylesheet Languages</h3>
+<p align="center">
   <a href="https://www.w3.org/TR/CSS/" target="_blank" rel="noreferrer">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/800px-CSS3_logo_and_wordmark.svg.png" alt="css3" width="60" height="80"/>
   </a>
